@@ -1,0 +1,21 @@
+/* Write your CSS code here */
+.list-item {
+  width: 80%;
+}
+.title-date-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.title-heading {
+  font-family: 'Roboto';
+  color: #12022f;
+}
+.published-date {
+  font-family: 'Roboto';
+  color: #9aa5b1;
+}
+.description {
+  font-family: 'Roboto';
+  color: #9aa5b1;
+}
